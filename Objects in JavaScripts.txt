@@ -1,0 +1,17 @@
+Objects in JavaScript:
+
+1) Object is the collection of properties, and a property is an association between a key and a value.
+
+datatype objectName = {
+propertyName1 = value1,
+propertyName2 = value2,
+.
+.
+};
+
+2) The properties of an object define the characteristics of the object. You access the properties of an object with a simple dot-notation. 
+eg: a) objectName.propertyName
+    b) objectName["propertyName"]
+3)property Name is case sensitive.
+4) value can be different datatype (string, number, boolean, bigint).
+
